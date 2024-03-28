@@ -1,1 +1,1 @@
-# BE491 Lecture 17: Dimension Reduction
+# BE491 Lecture 18: Image Data and Machine Learning
